@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "gd.rf.acro.wdheiy.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GetVariablesMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
